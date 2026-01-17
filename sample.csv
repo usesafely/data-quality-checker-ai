@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Price,Category,Stock_Count
+P001,Gaming Mouse,45.99,Electronics,120
+P002,Mechanical Keyboard,89.50,Electronics,
+P003,Ergonomic Chair,,Furniture,15
+P004,LED Monitor,199.99,,40
+P001,Gaming Mouse,45.99,Electronics,120
+P006,Water Bottle,12.00,Kitchen,200
+P007,Coffee Mug,8.50,Kitchen,0
+P008,,25.00,Accessories,50
+P009,Desk Lamp,30.00,Furniture,NaN
+P003,Ergonomic Chair,,Furniture,15
